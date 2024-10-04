@@ -1,5 +1,6 @@
-prior to deployment
-in each script there is a line like below:
+~~ Dumb Simple RAT ~~
+
+Prior to deployment in each script there is a line like below:
 rat = RAT_CLIENT('127.0.0.1', 80)
 for the client this determines the server it is connecting to
 
