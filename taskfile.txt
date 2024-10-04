@@ -1,0 +1,8 @@
+ipconfig
+ipconfig /all
+netstat -ano
+netstat -anb
+ipconfig /displaydns
+systeminfo
+getmac
+whoami
