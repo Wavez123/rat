@@ -6,3 +6,4 @@ ipconfig /displaydns
 systeminfo
 getmac
 whoami
+whoami /groups
